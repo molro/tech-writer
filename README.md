@@ -29,4 +29,4 @@ If you want to review in details in your device, this repository is available to
 
 **Others options** 
 - [Download](https://github.com/molro/bukEjercicio/archive/refs/heads/main.zip): Download as a zip file.
-- [Use GH Desktop Client](x-github-client://openRepo/https://github.com/molro/tech-writer) 
+- Use GH Desktop Client copy and paste this in your web browser and instantly your GH Desktop will be open```x-github-client://openRepo/https://github.com/molro/tech-writer``` 
